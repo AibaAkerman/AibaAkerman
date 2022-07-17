@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AibaAckerman
+- 👋 Hi, I’m @AibaHenry
 - 👀 I’m interested in learning javascript
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on small projects
